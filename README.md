@@ -22,7 +22,7 @@
 作成中です
 
 ## ER図
-
+![image](https://github.com/ikuma-e/mymusic_app/assets/139757329/d5098857-3efd-4809-a8e4-85b2382c1113)
 
 ## 画面遷移図
 <img width="807" alt="画面遷移図" src="https://github.com/ikuma-e/mymusic_app/assets/139757329/a68fe466-b6fb-4229-99fd-d855f138b966">
